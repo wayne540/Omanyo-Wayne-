@@ -49,21 +49,21 @@ Electrical & Electronics Engineering Student | AI & Machine Learning | Developer
 -  Passionate about **open-source projects** and building tools that bridge **engineering and AI**.  
 
 ---
-
-## GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wayne-omanyo&show_icons=true&theme=radical" alt="Wayne's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wayne540&show_icons=true&theme=radical" alt="Wayne's GitHub stats" height="160"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wayne-omanyo&theme=radical" alt="Wayne's GitHub streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wayne540&theme=radical" alt="Wayne's GitHub streak" height="160"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-omanyo&layout=compact&theme=radical" alt="Wayne's top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayne540&layout=compact&theme=radical" alt="Wayne's top languages" height="160"/>
 </p>
+
 
 
 ---
