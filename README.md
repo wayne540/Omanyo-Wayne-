@@ -50,7 +50,7 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wayne-omanyo&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>  
