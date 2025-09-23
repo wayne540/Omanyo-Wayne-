@@ -5,7 +5,7 @@
 
 # Hi, I'm Omanyo Wayne 
 
-Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast | Developer  
+Electrical & Electronics Engineering Student | AI & Machine Learning | Developer  
 
 ---
 
