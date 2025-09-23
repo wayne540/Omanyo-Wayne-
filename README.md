@@ -9,7 +9,7 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ---
 
-## 📖 Education  
+## Education  
 - **B.Sc. in Electrical & Electronics Engineering** – Ongoing  
 - Completed **CS50’s Introduction to Programming with python** (Harvard University)  
   📜 [View Certificate](https://cs50.harvard.edu/certificates/6e9f7b4a-73ff-4893-9591-f32554c938d1)  
@@ -18,7 +18,7 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ---
 
-## 🛠️ Skills & Technologies  
+##  Skills & Technologies  
 
 ### Programming & AI  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
