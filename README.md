@@ -35,27 +35,36 @@ Electrical & Electronics Engineering Student | AI & Machine Learning | Developer
 ---
 
 ## Featured Projects  
-- 🧮 [Scientific Calculator](link-to-repo) – A Python-based scientific calculator with advanced features, history logging, and session summary.  
-- 🎯 [Maze Solver (BFS, DFS, A*)](link-to-repo) – Implements search algorithms for pathfinding with performance tracking and visualization.  
-- 🤖 [Smart Personal Assistant](link-to-repo) – A console-based Python assistant with calculator, to-do list, and more.  
-- ⚡ [Electrical Engineering Projects](link-to-repo) – Circuit theory, Fourier series, synchronous motor lab reports, and simulations in MATLAB/Python.  
+-  [Scientific Calculator](link-to-repo) – A Python-based scientific calculator with advanced features, history logging, and session summary.  
+-  [Maze Solver (BFS, DFS, A*)](link-to-repo) – Implements search algorithms for pathfinding with performance tracking and visualization.  
+-  [Smart Personal Assistant](link-to-repo) – A console-based Python assistant with calculator, to-do list, and more.  
+-  [Electrical Engineering Projects](link-to-repo) – Circuit theory, Fourier series, synchronous motor lab reports, and simulations in MATLAB/Python.  
 
 ---
 
-## 💼 Experience & Interests  
-- ⚡ Hands-on experience in **electrical lab work**: motor winding, circuit design, and electrical installation (IET Wiring Regulations).  
-- 🧠 Studying **AI algorithms** (search, minimax, alpha-beta pruning, PageRank, etc.) from CS50 AI.  
-- 🔬 Interested in applying **AI to engineering systems** (e.g., smart grids, motor fault detection, predictive maintenance).  
-- 🌍 Passionate about **open-source projects** and building tools that bridge **engineering and AI**.  
+##  Experience & Interests  
+-  Hands-on experience in **electrical lab work**: motor winding, circuit design, and electrical installation (IET Wiring Regulations).  
+-  Studying **AI algorithms** (search, minimax, alpha-beta pruning, PageRank, etc.) from CS50 AI.  
+-  Interested in applying **AI to engineering systems** (e.g., smart grids, motor fault detection, predictive maintenance).  
+-  Passionate about **open-source projects** and building tools that bridge **engineering and AI**.  
 
 ---
 
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wayne-omanyo&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wayne-omanyo&theme=radical" alt="GitHub streak" height="150"/>  
-</p>  
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wayne-omanyo&show_icons=true&theme=radical" alt="Wayne's GitHub stats" height="160"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wayne-omanyo&theme=radical" alt="Wayne's GitHub streak" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-omanyo&layout=compact&theme=radical" alt="Wayne's top languages" height="160"/>
+</p>
+
 
 ---
 
