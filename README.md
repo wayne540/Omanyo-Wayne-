@@ -49,7 +49,7 @@ Electrical & Electronics Engineering Student | AI & Machine Learning | Developer
 -  Passionate about **open-source projects** and building tools that bridge **engineering and AI**.  
 
 ---
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <!-- Overall Stats -->
