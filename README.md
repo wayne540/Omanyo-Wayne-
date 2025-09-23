@@ -11,10 +11,10 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ## 📖 Education  
 - **B.Sc. in Electrical & Electronics Engineering** – Ongoing  
-- Completed **CS50’s Introduction to Computer Science** (Harvard University)  
-  📜 [View Certificate](https://certificates.cs50.io/your-cs50x-certificate-id)  
+- Completed **CS50’s Introduction to Programming with python** (Harvard University)  
+  📜 [View Certificate](https://cs50.harvard.edu/certificates/6e9f7b4a-73ff-4893-9591-f32554c938d1)  
 - Completed **CS50’s Introduction to Artificial Intelligence with Python** (Harvard University)  
-  📜 [View Certificate]([https://certificates.cs50.io/your-cs50ai-certificate-id](https://certificates.cs50.io/61c34e61-1a6c-41b9-80e5-d931ac878d42.pdf?size=letter))  
+  📜 [View Certificate](https://cs50.harvard.edu/certificates/61c34e61-1a6c-41b9-80e5-d931ac878d42) 
 
 ---
 
