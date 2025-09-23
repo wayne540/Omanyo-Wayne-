@@ -3,7 +3,7 @@
   <img src="https://github.com/wayne-omanyo/wayne-omanyo/blob/main/assets/banner.png" alt="AI & EEE Banner" width="100%">
 </p>
 
-# Hi, I'm Wayne Omanyo  
+# Hi, I'm Omanyo Wayne 
 
 Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast | Developer  
 
@@ -34,7 +34,7 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 - 🧮 [Scientific Calculator](link-to-repo) – A Python-based scientific calculator with advanced features, history logging, and session summary.  
 - 🎯 [Maze Solver (BFS, DFS, A*)](link-to-repo) – Implements search algorithms for pathfinding with performance tracking and visualization.  
 - 🤖 [Smart Personal Assistant](link-to-repo) – A console-based Python assistant with calculator, to-do list, and more.  
@@ -59,13 +59,13 @@ Electrical & Electronics Engineering Student | AI & Machine Learning Enthusiast 
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 <p align="left">
-  <a href="your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/
+omanyo-wayne-32b7222b6
+"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="your-website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>  
 
----
 
-⭐️ *“General Motors Limited, your trusted partner in motor vehicles”* 🚗  
