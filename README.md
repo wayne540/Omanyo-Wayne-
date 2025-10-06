@@ -81,7 +81,7 @@ A visual demonstration of AI pathfinding algorithms in action.
 ---
 
 ### 🧮 **CS50 AI Projects Collection**
-📂 **Repo:** [CS50-AI](#)  
+📂 **Repo:** [https://github.com/me50/wayne540](#)  
 📝 Includes:
 - Degrees of Separation (BFS)
 - Nim AI (Minimax)
