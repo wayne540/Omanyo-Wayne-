@@ -39,7 +39,7 @@ My core interests include:
 
 ---
 
-## 🛠️ 3. Skills & Tools — My Technical Arsenal
+##  3. Skills & Tools — My Technical Arsenal
 
 |  Category |  Tools / Frameworks |  Description |
 |-------------|----------------------|----------------|
